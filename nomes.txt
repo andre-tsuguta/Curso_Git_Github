@@ -2,3 +2,5 @@ andre
 fernando
 carla
 joao
+pedro 
+paulo
